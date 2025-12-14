@@ -1,0 +1,37 @@
+Veri Ön İşleme
+
+CSV veya Excel dosyasını yükleme (pd.read_csv)
+
+Gereksiz sütunları kaldırma, eksik verileri doldurma (dropna, fillna)
+
+String veya TL formatındaki fiyatları sayıya çevirme (clean_price)
+
+Feature engineering ve seçim (important_features)
+
+2️⃣ Model Eğitimi
+
+Train/test split (train_test_split)
+
+Kategorik verileri encode etme (LabelEncoder)
+
+Sayısal verileri ölçeklendirme (StandardScaler)
+
+Model oluşturma ve eğitme (RandomForestRegressor.fit)
+
+3️⃣ Model Değerlendirme
+
+Tahminler (model.predict)
+
+  Performans ölçümleri:
+
+MAE (mean_absolute_error)
+
+R² (r2_score)
+
+Feature importance gösterimi
+
+4️⃣ Model Kaydetme
+
+Model, scaler ve label encoder’ı kaydetme (joblib.dump)
+
+Feature listesini saklama (selected_features.txt)
