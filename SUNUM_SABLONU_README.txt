@@ -80,4 +80,5 @@ Kullanıcı dostu ve modern HTML arayüz tasarımı.
 
 Gradient ile görsel olarak öne çıkan tahmin değeri göstergesi.
 
+
 Fırsat/pahalı uyarısı sayesinde kullanıcılar hızlı yatırım kararı verebiliyor.
