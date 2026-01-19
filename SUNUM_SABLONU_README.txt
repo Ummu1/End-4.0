@@ -1,6 +1,5 @@
 ========================================================================
 PROJE SUNUM VE TEKNİK RAPOR DOSYASI
-(Bu dosyayı doldurup proje klasörünüzün içine ekleyiniz.)
 ========================================================================
 
 ------------------------------------------------------------------------
@@ -75,5 +74,6 @@ Gradient ile görsel olarak öne çıkan tahmin değeri göstergesi.
 
 
 Fırsat/pahalı uyarısı sayesinde kullanıcılar hızlı yatırım kararı verebiliyor.
+
 
 
