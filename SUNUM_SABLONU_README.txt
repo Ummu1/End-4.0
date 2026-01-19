@@ -3,15 +3,8 @@ PROJE SUNUM VE TEKNİK RAPOR DOSYASI
 (Bu dosyayı doldurup proje klasörünüzün içine ekleyiniz.)
 ========================================================================
 
-TAKIM ADI:End 4.0
-TAKIM ÜYELERİ:
-1.Ümmügülsüm Ekici
-2.Sümeyra Bektaş
-3.Reyhan Yetgil
-4.Narin Cüüt
-
 ------------------------------------------------------------------------
-1. PROJE ÖZETİ (Asansör Konuşması)
+1. PROJE ÖZETİ
 ------------------------------------------------------------------------
 Ev ve daire fiyatlarını tahmin eden bir yapay zeka modeli geliştirdik. Kullanıcılar, istedikleri ilçe ve mahalleyi seçerek ilanların uygun fiyatlı mı yoksa pahalı mı olduğunu hızlıca görebilecekler. Böylece emlak yatırım kararlarını daha bilinçli verebilecekler.
 
@@ -82,3 +75,4 @@ Gradient ile görsel olarak öne çıkan tahmin değeri göstergesi.
 
 
 Fırsat/pahalı uyarısı sayesinde kullanıcılar hızlı yatırım kararı verebiliyor.
+
